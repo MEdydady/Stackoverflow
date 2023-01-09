@@ -1,7 +1,5 @@
 import json
-import os
 import pprint
-
 import requests
 
 BASE_URL = "https://api.stackexchange.com/"
@@ -21,7 +19,7 @@ z = {}
 z["has_more"] = True
 
 
-while z["has_more"]:
+while z["has_more"]:    # Проверяю есть ли ещё страницы с ответами
 
     response = requests.get(f"{BASE_URL}/2.3/questions", params=params)
     z = response.json()
@@ -29,7 +27,7 @@ while z["has_more"]:
 
 pprint.pprint(z)
 
-with open("data.json", "w", encoding="utf-8") as f:
+with open("data.json", "w", encoding="utf-8") as f: #Сохраняю отвкет в файл json
     json.dump(response.json(), f, ensure_ascii=False, indent=4)
 
 
