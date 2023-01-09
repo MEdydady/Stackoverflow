@@ -1,0 +1,2308 @@
+{
+    "items": [
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "list-comprehension"
+            ],
+            "owner": {
+                "account_id": 8213792,
+                "reputation": 2223,
+                "user_id": 6357916,
+                "user_type": "registered",
+                "accept_rate": 33,
+                "profile_image": "https://www.gravatar.com/avatar/2dbf2127eed5a145159b26b07afba22b?s=256&d=identicon&r=PG&f=1",
+                "display_name": "RajS",
+                "link": "https://stackoverflow.com/users/6357916/rajs"
+            },
+            "is_answered": false,
+            "view_count": 45,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673164138,
+            "creation_date": 1673164138,
+            "question_id": 75046225,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046225/why-python-code-with-list-comprehension-take-less-time-than-the-one-without",
+            "title": "Why python code with list comprehension take less time than the one without?"
+        },
+        {
+            "tags": [
+                "python",
+                "multithreading"
+            ],
+            "owner": {
+                "account_id": 17428062,
+                "reputation": 133,
+                "user_id": 12632584,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/ONulZ.jpg?s=256&g=1",
+                "display_name": "dinodeep",
+                "link": "https://stackoverflow.com/users/12632584/dinodeep"
+            },
+            "is_answered": true,
+            "view_count": 52,
+            "accepted_answer_id": 75046140,
+            "answer_count": 2,
+            "score": 3,
+            "last_activity_date": 1673164005,
+            "creation_date": 1673156513,
+            "question_id": 75045739,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045739/faster-startup-of-processes-python",
+            "title": "Faster Startup of Processes Python"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 27466820,
+                "reputation": 1,
+                "user_id": 20956385,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/10160363378992346/picture?type=large",
+                "display_name": "Yvonne Sophia Lim",
+                "link": "https://stackoverflow.com/users/20956385/yvonne-sophia-lim"
+            },
+            "is_answered": false,
+            "view_count": 15,
+            "closed_date": 1673164123,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673163992,
+            "creation_date": 1673163992,
+            "question_id": 75046211,
+            "link": "https://stackoverflow.com/questions/75046211/recommended-2d-games-using-jupyter-notebook-i-am-a-python-beginner",
+            "closed_reason": "Opinion-based",
+            "title": "Recommended 2D games using jupyter notebook (I am a python beginner)"
+        },
+        {
+            "tags": [
+                "python",
+                "dataframe",
+                "transform"
+            ],
+            "owner": {
+                "account_id": 27465121,
+                "reputation": 1,
+                "user_id": 20954986,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/10160399297404161/picture?type=large",
+                "display_name": "Ka Fai Tam",
+                "link": "https://stackoverflow.com/users/20954986/ka-fai-tam"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "closed_date": 1673141614,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673163954,
+            "creation_date": 1673139580,
+            "last_edit_date": 1673163954,
+            "question_id": 75044841,
+            "link": "https://stackoverflow.com/questions/75044841/how-to-transform-read-text-file-data-into-pd-dataframe-set-list-etc",
+            "closed_reason": "Needs details or clarity",
+            "title": "How to transform read text file data into pd.DataFrame, set, list etc.?"
+        },
+        {
+            "tags": [
+                "python",
+                "c++",
+                "web-scraping",
+                "arduino",
+                "lcd"
+            ],
+            "owner": {
+                "account_id": 15946889,
+                "reputation": 1,
+                "user_id": 11507176,
+                "user_type": "registered",
+                "profile_image": "https://lh6.googleusercontent.com/-bGbs--PrdgY/AAAAAAAAAAI/AAAAAAAAIlQ/7boswfsHdrk/photo.jpg?sz=256",
+                "display_name": "Ian Milk&#243;",
+                "link": "https://stackoverflow.com/users/11507176/ian-milk%c3%b3"
+            },
+            "is_answered": false,
+            "view_count": 15,
+            "closed_date": 1673168858,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673163862,
+            "creation_date": 1673163862,
+            "question_id": 75046205,
+            "link": "https://stackoverflow.com/questions/75046205/displaying-web-scraped-python-data-on-an-arduino-lcd-display",
+            "closed_reason": "Not suitable for this site",
+            "title": "Displaying web-scraped Python data on an Arduino LCD display"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 26443708,
+                "reputation": 1,
+                "user_id": 20956357,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/ACNPEu8RUo-SySRrJoHviU9XsFHWs5dAdGWVw_B1fZAurQ=k-s256",
+                "display_name": "Sasankan ",
+                "link": "https://stackoverflow.com/users/20956357/sasankan"
+            },
+            "is_answered": false,
+            "view_count": 11,
+            "closed_date": 1673168316,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673163714,
+            "creation_date": 1673163714,
+            "question_id": 75046192,
+            "link": "https://stackoverflow.com/questions/75046192/combine-plots-one-below-the-other-in-a-single-plot-by-loading-txt-file-in-code",
+            "closed_reason": "Not suitable for this site",
+            "title": "combine plots one below the other in a single plot by loading txt file in code"
+        },
+        {
+            "tags": [
+                "python",
+                "heroku"
+            ],
+            "owner": {
+                "account_id": 27409693,
+                "reputation": 1,
+                "user_id": 20909787,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp50DetKhah8_7BnsmcIllmhbr89PQ8Qduf20qmh=k-s256",
+                "display_name": "Muhammadzakyyusufgmailcom Zmy2",
+                "link": "https://stackoverflow.com/users/20909787/muhammadzakyyusufgmailcom-zmy2"
+            },
+            "is_answered": false,
+            "view_count": 21,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673163706,
+            "creation_date": 1673163574,
+            "last_edit_date": 1673163706,
+            "question_id": 75046183,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046183/error-failed-to-push-some-refs-to-https-git-heroku-com-texts-classifiers-git",
+            "title": "error: failed to push some refs to &#39;https://git.heroku.com/texts-classifiers.git&#39;"
+        },
+        {
+            "tags": [
+                "python",
+                "operators",
+                "division",
+                "median",
+                "integer-division"
+            ],
+            "owner": {
+                "account_id": 24285898,
+                "reputation": 67,
+                "user_id": 18231682,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJz-vNC583t_kEgZ2I4JkJk9BXow8R9k8SSJzMwq=k-s256",
+                "display_name": "mradul chourasiya",
+                "link": "https://stackoverflow.com/users/18231682/mradul-chourasiya"
+            },
+            "is_answered": true,
+            "view_count": 16,
+            "answer_count": 1,
+            "score": 2,
+            "last_activity_date": 1673163623,
+            "creation_date": 1673161995,
+            "question_id": 75046064,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046064/get-a-integer-if-there-are-no-significant-digits-after-decimal-or-get-a-float-if",
+            "title": "Get a integer if there are no significant digits after decimal or get a float if there are significant digits after decimal in python"
+        },
+        {
+            "tags": [
+                "python",
+                "search",
+                "tensor",
+                "marqo"
+            ],
+            "owner": {
+                "account_id": 27447855,
+                "reputation": 55,
+                "user_id": 20940991,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/c5ea67385e8023757ab832fe1ff13b60?s=256&d=identicon&r=PG",
+                "display_name": "greenstreets2",
+                "link": "https://stackoverflow.com/users/20940991/greenstreets2"
+            },
+            "is_answered": true,
+            "view_count": 12,
+            "accepted_answer_id": 75046047,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1673163474,
+            "creation_date": 1673161498,
+            "last_edit_date": 1673163474,
+            "question_id": 75046022,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046022/image-search-on-marqo-is-returning-random-results-how-can-i-fix-this",
+            "title": "Image search on Marqo is returning random results - how can I fix this?"
+        },
+        {
+            "tags": [
+                "python",
+                "flutter",
+                "encryption",
+                "flutter-web"
+            ],
+            "owner": {
+                "account_id": 11764636,
+                "reputation": 17,
+                "user_id": 8609642,
+                "user_type": "registered",
+                "profile_image": "https://lh5.googleusercontent.com/-iXTMaSBU8NM/AAAAAAAAAAI/AAAAAAAABPw/l4bW1cd9iYg/photo.jpg?sz=256",
+                "display_name": "Sanjay R B",
+                "link": "https://stackoverflow.com/users/8609642/sanjay-r-b"
+            },
+            "is_answered": false,
+            "view_count": 31,
+            "closed_date": 1673195859,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673163345,
+            "creation_date": 1673163345,
+            "question_id": 75046163,
+            "link": "https://stackoverflow.com/questions/75046163/secure-data-between-flutter-python",
+            "closed_reason": "Not suitable for this site",
+            "title": "Secure data between Flutter &amp; Python"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "owner": {
+                "account_id": 27100528,
+                "reputation": 13,
+                "user_id": 20647174,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/e3ceb4a8d0ff3ce28a0e578acd79234b?s=256&d=identicon&r=PG",
+                "display_name": "Jane172",
+                "link": "https://stackoverflow.com/users/20647174/jane172"
+            },
+            "is_answered": false,
+            "view_count": 28,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1673163253,
+            "creation_date": 1673162631,
+            "last_edit_date": 1673162908,
+            "question_id": 75046106,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046106/join-in-pandas-dataframe-auto-conversion-from-date-to-date-time",
+            "title": "Join in Pandas dataframe (Auto conversion from date to date-time?)"
+        },
+        {
+            "tags": [
+                "python",
+                "deep-learning",
+                "orc"
+            ],
+            "owner": {
+                "account_id": 27466652,
+                "reputation": 1,
+                "user_id": 20956246,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4GRrk_tiZ5rIP9ihBMOh6zj0hCh_Twme1HzqKV=k-s256",
+                "display_name": "Daniel Wyatt",
+                "link": "https://stackoverflow.com/users/20956246/daniel-wyatt"
+            },
+            "is_answered": false,
+            "view_count": 9,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673163232,
+            "creation_date": 1673163232,
+            "question_id": 75046147,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046147/is-there-an-app-or-source-code-for-real-time-ocr-that-detect-and-recognize-j",
+            "title": "Is there an app or source code for &quot; real time ocr &quot; that detect and recognize Japanese words, and highlight a specific words that i type?"
+        },
+        {
+            "tags": [
+                "python",
+                "scikits"
+            ],
+            "owner": {
+                "account_id": 27466746,
+                "reputation": 1,
+                "user_id": 20956328,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4IF986jqfcZ7HRo536m_Gb8xABJXpvfziwilQ=k-s256",
+                "display_name": "Sam Foster",
+                "link": "https://stackoverflow.com/users/20956328/sam-foster"
+            },
+            "is_answered": false,
+            "view_count": 8,
+            "closed_date": 1673168427,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673163063,
+            "creation_date": 1673163063,
+            "question_id": 75046134,
+            "link": "https://stackoverflow.com/questions/75046134/no-module-named-in-scikit-fuzzy",
+            "closed_reason": "Needs details or clarity",
+            "title": "no module named in scikit-fuzzy"
+        },
+        {
+            "tags": [
+                "python",
+                "google-colaboratory"
+            ],
+            "owner": {
+                "account_id": 18130438,
+                "reputation": 17,
+                "user_id": 13185598,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/86f85d9dfd46297f4eac9207ef88873e?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Mahdi Aspanani",
+                "link": "https://stackoverflow.com/users/13185598/mahdi-aspanani"
+            },
+            "is_answered": false,
+            "view_count": 12,
+            "closed_date": 1673165941,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673163010,
+            "creation_date": 1673163010,
+            "question_id": 75046131,
+            "link": "https://stackoverflow.com/questions/75046131/is-there-any-way-to-change-python-version-in-google-colab",
+            "closed_reason": "Duplicate",
+            "title": "is there any way to change python version in google colab?"
+        },
+        {
+            "tags": [
+                "python",
+                "pymc"
+            ],
+            "owner": {
+                "account_id": 17647720,
+                "reputation": 35,
+                "user_id": 12808793,
+                "user_type": "registered",
+                "profile_image": "https://lh6.googleusercontent.com/-Y-G1ZZK_U7Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfPeeh41GtJ2OINHVKVt9RCYqR-QQ/photo.jpg?sz=256",
+                "display_name": "Wesley Young",
+                "link": "https://stackoverflow.com/users/12808793/wesley-young"
+            },
+            "is_answered": false,
+            "view_count": 7,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673162971,
+            "creation_date": 1673162971,
+            "question_id": 75046130,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046130/looking-for-extreme-minimum-grumbel-in-pymc",
+            "title": "Looking for extreme minimum grumbel in pYMC"
+        },
+        {
+            "tags": [
+                "python",
+                "terminal",
+                "user-input"
+            ],
+            "owner": {
+                "account_id": 22055447,
+                "reputation": 11,
+                "user_id": 16319049,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/yVEVX.png?s=256&g=1",
+                "display_name": "cloud",
+                "link": "https://stackoverflow.com/users/16319049/cloud"
+            },
+            "is_answered": false,
+            "view_count": 35,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1673162931,
+            "creation_date": 1673156217,
+            "last_edit_date": 1673162931,
+            "question_id": 75045720,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045720/how-to-print-text-after-the-input-prompt-while-input-is-still-happening",
+            "title": "How to print text after the input prompt while input is still happening?"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x"
+            ],
+            "owner": {
+                "account_id": 21741594,
+                "reputation": 1,
+                "user_id": 16048874,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/VQAmQ.jpg?s=256&g=1",
+                "display_name": "thejatinbaghel",
+                "link": "https://stackoverflow.com/users/16048874/thejatinbaghel"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "closed_date": 1673166588,
+            "answer_count": 3,
+            "score": -3,
+            "last_activity_date": 1673162685,
+            "creation_date": 1673162160,
+            "last_edit_date": 1673162376,
+            "question_id": 75046071,
+            "link": "https://stackoverflow.com/questions/75046071/keyerror-coming-on-execution-of-following-command",
+            "closed_reason": "Needs details or clarity",
+            "title": "&quot;Keyerror&quot; coming on execution of following command"
+        },
+        {
+            "tags": [
+                "python",
+                "machine-learning",
+                "artificial-intelligence",
+                "gpt-3"
+            ],
+            "owner": {
+                "account_id": 23177281,
+                "reputation": 107,
+                "user_id": 17275588,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/3eabe7b8ffcfff74c3822f423e2ed6c8?s=256&d=identicon&r=PG",
+                "display_name": "king_anton",
+                "link": "https://stackoverflow.com/users/17275588/king-anton"
+            },
+            "is_answered": false,
+            "view_count": 19,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673162168,
+            "creation_date": 1673162168,
+            "question_id": 75046073,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046073/python-open-ai-gpt3-question-why-is-part-of-my-prompt-spilling-into-the-respo",
+            "title": "Python + Open AI/GPT3 question: Why is part of my prompt spilling into the responses I receive?"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "python-3.x"
+            ],
+            "owner": {
+                "account_id": 27462930,
+                "reputation": 1,
+                "user_id": 20953185,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4SgvA1At13kpGc2jYGr5o7LZ5PhulwsyOQepJbBA=k-s256",
+                "display_name": "Invincible Cipher",
+                "link": "https://stackoverflow.com/users/20953185/invincible-cipher"
+            },
+            "is_answered": false,
+            "view_count": 35,
+            "closed_date": 1673170328,
+            "answer_count": 1,
+            "score": -2,
+            "last_activity_date": 1673161721,
+            "creation_date": 1673149159,
+            "question_id": 75045352,
+            "link": "https://stackoverflow.com/questions/75045352/unable-to-insert-values-into-sql-from-python",
+            "closed_reason": "Not suitable for this site",
+            "title": "unable to insert values into SQL from python"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 27466616,
+                "reputation": 1,
+                "user_id": 20956215,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5TQ6GL56N17Mpx1Ei-7Cp-L4IW97EVJ9UCYHN5xE8=k-s256",
+                "display_name": "TySm",
+                "link": "https://stackoverflow.com/users/20956215/tysm"
+            },
+            "is_answered": false,
+            "view_count": 20,
+            "closed_date": 1673168458,
+            "answer_count": 0,
+            "score": -2,
+            "last_activity_date": 1673161569,
+            "creation_date": 1673161569,
+            "question_id": 75046028,
+            "link": "https://stackoverflow.com/questions/75046028/running-a-python-script-without-starting-from-the-beginning",
+            "closed_reason": "Needs details or clarity",
+            "title": "Running a python script without starting from the beginning"
+        },
+        {
+            "tags": [
+                "python",
+                "list",
+                "for-loop",
+                "range"
+            ],
+            "owner": {
+                "account_id": 26796970,
+                "reputation": 17,
+                "user_id": 20389571,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu108yGvO0uvQxiGYzaXG5gm53S69KW8XRqIupoL7A=k-s256",
+                "display_name": "Moses Sunday",
+                "link": "https://stackoverflow.com/users/20389571/moses-sunday"
+            },
+            "is_answered": true,
+            "view_count": 41,
+            "accepted_answer_id": 75045037,
+            "answer_count": 2,
+            "score": 1,
+            "last_activity_date": 1673161535,
+            "creation_date": 1673142193,
+            "last_edit_date": 1673149826,
+            "question_id": 75045009,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045009/unexpected-outcome-with-the-range-function-slightly-confused",
+            "title": "Unexpected outcome with the range function, slightly confused"
+        },
+        {
+            "tags": [
+                "python",
+                "matplotlib",
+                "scatter-plot",
+                "font-size"
+            ],
+            "owner": {
+                "account_id": 3161744,
+                "reputation": 109,
+                "user_id": 2672662,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/jR9pA.png?s=256&g=1",
+                "display_name": "Vincent Granville",
+                "link": "https://stackoverflow.com/users/2672662/vincent-granville"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673161231,
+            "creation_date": 1673161231,
+            "question_id": 75046003,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75046003/unable-to-adjust-font-sizes-and-other-params-in-matplotlib-scatterplot",
+            "title": "Unable to adjust font sizes and other params in matplotlib (scatterplot)"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x"
+            ],
+            "owner": {
+                "account_id": 27466524,
+                "reputation": 1,
+                "user_id": 20956137,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/9c6338083fc1de1b63a46700cc3851df?s=256&d=identicon&r=PG",
+                "display_name": "user20956137",
+                "link": "https://stackoverflow.com/users/20956137/user20956137"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "closed_date": 1673160598,
+            "answer_count": 0,
+            "score": -4,
+            "last_activity_date": 1673161196,
+            "creation_date": 1673160412,
+            "last_edit_date": 1673161196,
+            "question_id": 75045945,
+            "link": "https://stackoverflow.com/questions/75045945/dictionary-handling-in-python",
+            "closed_reason": "Needs more focus",
+            "title": "Dictionary handling in python"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "numpy",
+                "matplotlib"
+            ],
+            "owner": {
+                "account_id": 25434264,
+                "reputation": 247,
+                "user_id": 19238204,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjvHhhHIGVm-2-dX2hk6YZafWm3uk0nM833qabRZg=k-s256",
+                "display_name": "Freya the Goddess",
+                "link": "https://stackoverflow.com/users/19238204/freya-the-goddess"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673159993,
+            "creation_date": 1673153891,
+            "last_edit_date": 1673159993,
+            "question_id": 75045588,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045588/python3-matplotlib-to-show-solid-of-revolution-from-method-of-disks-method-of-s",
+            "title": "Python3 Matplotlib to Show Solid of Revolution from Method of Disks, Method of Shells, and Method of Washers around x-axis and y-axis"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 27466223,
+                "reputation": 1,
+                "user_id": 20955886,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/5483586288433682/picture?type=large",
+                "display_name": "Samkelo Magwala",
+                "link": "https://stackoverflow.com/users/20955886/samkelo-magwala"
+            },
+            "is_answered": false,
+            "view_count": 26,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673159916,
+            "creation_date": 1673155437,
+            "last_edit_date": 1673159916,
+            "question_id": 75045672,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045672/xarray-dataset-where-does-not-seem-to-work-for-extreme-values",
+            "title": "xarray.dataset.where() does not seem to work for extreme values"
+        },
+        {
+            "tags": [
+                "python",
+                "tensorflow",
+                "keras",
+                "recurrent-neural-network"
+            ],
+            "owner": {
+                "account_id": 24042701,
+                "reputation": 23,
+                "user_id": 18076382,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJxw_AJzbVrvst9RNJfgQ_TWJCWNjQFlFwuCq_c_uQ=k-s256",
+                "display_name": "Pikappa",
+                "link": "https://stackoverflow.com/users/18076382/pikappa"
+            },
+            "is_answered": false,
+            "view_count": 26,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673159718,
+            "creation_date": 1673153154,
+            "last_edit_date": 1673159718,
+            "question_id": 75045553,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045553/rnn-and-input-shape-on-a-1d-toy-dataset-with-keras",
+            "title": "rnn and input shape on a 1d toy dataset with keras"
+        },
+        {
+            "tags": [
+                "python",
+                "django",
+                "django-rest-framework"
+            ],
+            "owner": {
+                "account_id": 1726022,
+                "reputation": 1326,
+                "user_id": 1580659,
+                "user_type": "registered",
+                "accept_rate": 86,
+                "profile_image": "https://www.gravatar.com/avatar/0cb7cacfd856958a7e38b00429f77804?s=256&d=identicon&r=PG",
+                "display_name": "JeremyE",
+                "link": "https://stackoverflow.com/users/1580659/jeremye"
+            },
+            "is_answered": false,
+            "view_count": 19,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673159539,
+            "creation_date": 1673159539,
+            "question_id": 75045905,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045905/accessing-data-from-an-intermediate-model-and-the-main-model-at-the-same-time",
+            "title": "Accessing Data from an Intermediate Model and the Main Model at the same time?"
+        },
+        {
+            "tags": [
+                "python",
+                "pip",
+                "topic-modeling"
+            ],
+            "owner": {
+                "account_id": 8942703,
+                "reputation": 263,
+                "user_id": 12141068,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mCF6_IrBlodScGg9UQuLoVOsRC5qnje5F6IvNfO=k-s256",
+                "display_name": "Araf",
+                "link": "https://stackoverflow.com/users/12141068/araf"
+            },
+            "is_answered": true,
+            "view_count": 23,
+            "accepted_answer_id": 75045898,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1673159365,
+            "creation_date": 1673153544,
+            "question_id": 75045575,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045575/unable-to-install-top2vec",
+            "title": "Unable to install top2vec"
+        },
+        {
+            "tags": [
+                "python",
+                "selenium",
+                "web"
+            ],
+            "owner": {
+                "account_id": 27046839,
+                "reputation": 1,
+                "user_id": 20600903,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu2oAte8VcmyAii2664EHrZpTr1mh7ikcQJxnQLY=k-s256",
+                "display_name": "Mason",
+                "link": "https://stackoverflow.com/users/20600903/mason"
+            },
+            "is_answered": false,
+            "view_count": 27,
+            "closed_date": 1673167307,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673159139,
+            "creation_date": 1673151958,
+            "last_edit_date": 1673159139,
+            "question_id": 75045493,
+            "link": "https://stackoverflow.com/questions/75045493/creating-script-to-search-webpage",
+            "closed_reason": "Duplicate",
+            "title": "Creating script to search webpage"
+        },
+        {
+            "tags": [
+                "python",
+                "tkinter",
+                "tkinter-button"
+            ],
+            "owner": {
+                "account_id": 27466383,
+                "reputation": 1,
+                "user_id": 20956017,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4fst2ZKmZB5gslGhLXwzVxqziEQRAtUUSw_Vtf=k-s256",
+                "display_name": "Mike K",
+                "link": "https://stackoverflow.com/users/20956017/mike-k"
+            },
+            "is_answered": false,
+            "view_count": 23,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673158979,
+            "creation_date": 1673158979,
+            "question_id": 75045876,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045876/allow-user-to-choose-photos-for-buttons",
+            "title": "Allow user to choose photos for buttons"
+        },
+        {
+            "tags": [
+                "python",
+                "arrays"
+            ],
+            "owner": {
+                "account_id": 27461626,
+                "reputation": 1,
+                "user_id": 20952085,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/171ff7ef136b177f12c9e409ee71d6d1?s=256&d=identicon&r=PG",
+                "display_name": "i_am_pro",
+                "link": "https://stackoverflow.com/users/20952085/i-am-pro"
+            },
+            "is_answered": true,
+            "view_count": 57,
+            "closed_date": 1673161707,
+            "answer_count": 3,
+            "score": -3,
+            "last_activity_date": 1673158670,
+            "creation_date": 1673157607,
+            "last_edit_date": 1673157733,
+            "question_id": 75045804,
+            "link": "https://stackoverflow.com/questions/75045804/is-there-a-python-function-which-can-count-the-number-of-sheep-in-an-array",
+            "closed_reason": "Not suitable for this site",
+            "title": "Is there a Python function which can count the number of sheep in an array?"
+        },
+        {
+            "tags": [
+                "python",
+                "arrays",
+                "numpy",
+                "multidimensional-array",
+                "strsplit"
+            ],
+            "owner": {
+                "account_id": 3124781,
+                "reputation": 641,
+                "user_id": 2643864,
+                "user_type": "registered",
+                "accept_rate": 72,
+                "profile_image": "https://www.gravatar.com/avatar/ddf485b174909ce89857486009333d48?s=256&d=identicon&r=PG",
+                "display_name": "user2643864",
+                "link": "https://stackoverflow.com/users/2643864/user2643864"
+            },
+            "is_answered": false,
+            "view_count": 23,
+            "closed_date": 1673159086,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673157692,
+            "creation_date": 1673157692,
+            "question_id": 75045808,
+            "link": "https://stackoverflow.com/questions/75045808/how-to-extract-the-6th-value-of-a-multi-dimensional-numpy-array",
+            "closed_reason": "Duplicate",
+            "title": "How to extract the 6th value of a multi-dimensional numpy array"
+        },
+        {
+            "tags": [
+                "python",
+                "directory",
+                "move",
+                "mkdir",
+                "shutil"
+            ],
+            "owner": {
+                "account_id": 23324595,
+                "reputation": 31,
+                "user_id": 17401961,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjgLy-SfjrHW7vo_XivISXOPHRcebzC1l5kOwHHjw=k-s256",
+                "display_name": "KEEP BUSY",
+                "link": "https://stackoverflow.com/users/17401961/keep-busy"
+            },
+            "is_answered": true,
+            "view_count": 42,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1673156619,
+            "creation_date": 1673147485,
+            "question_id": 75045269,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045269/shutil-move-cannot-move-directory-into-itself-python",
+            "title": "shutil.move - Cannot move directory into itself... (Python)"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "owner": {
+                "account_id": 26144221,
+                "reputation": 17,
+                "user_id": 19833088,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AFdZucpHhMQl5MtkjR5qdLXdwoQBD232J0n9m0t8hj7GgA=k-s256",
+                "display_name": "Sar&#237;ah",
+                "link": "https://stackoverflow.com/users/19833088/sar%c3%adah"
+            },
+            "is_answered": true,
+            "view_count": 29,
+            "accepted_answer_id": 75045644,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1673156525,
+            "creation_date": 1673154496,
+            "question_id": 75045613,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045613/extracting-the-first-mention-from-retweets-in-a-python-dataframe",
+            "title": "Extracting the first mention from retweets in a python dataframe"
+        },
+        {
+            "tags": [
+                "python",
+                "azure",
+                "azure-functions",
+                "wkhtmltopdf",
+                "html-to-pdf"
+            ],
+            "owner": {
+                "account_id": 19617555,
+                "reputation": 1833,
+                "user_id": 14358677,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgcdKrGsm8x9bKZGvwck_yOqzchwlFTkp41TQMGxWY=k-s256",
+                "display_name": "Anupam Chand",
+                "link": "https://stackoverflow.com/users/14358677/anupam-chand"
+            },
+            "is_answered": false,
+            "view_count": 28,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673156349,
+            "creation_date": 1673156349,
+            "question_id": 75045732,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045732/html-to-pdf-on-azure-using-pdfkit-with-wkhtmltopdf",
+            "title": "html to pdf on Azure using pdfkit with wkhtmltopdf"
+        },
+        {
+            "tags": [
+                "python",
+                "sql",
+                "database",
+                "sqlite",
+                "peewee"
+            ],
+            "owner": {
+                "account_id": 2817869,
+                "reputation": 166,
+                "user_id": 2422440,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/65f4710dd4a99c70fdf03191e301b9c2?s=256&d=identicon&r=PG",
+                "display_name": "B4dmonkey",
+                "link": "https://stackoverflow.com/users/2422440/b4dmonkey"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1673156328,
+            "creation_date": 1673148302,
+            "question_id": 75045304,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045304/get-range-of-dates-across-multiple-years",
+            "title": "Get range of dates across multiple years"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "nlp",
+                "data-science"
+            ],
+            "owner": {
+                "account_id": 13878623,
+                "reputation": 43,
+                "user_id": 10019553,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/-wG9WSB2nTrY/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq0Z3yOX3ggTDZ1_t1pXs4Hgt48ezQ/mo/photo.jpg?sz=256",
+                "display_name": "Moniruzzaman Khan",
+                "link": "https://stackoverflow.com/users/10019553/moniruzzaman-khan"
+            },
+            "is_answered": false,
+            "view_count": 36,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673155948,
+            "creation_date": 1673136282,
+            "last_edit_date": 1673146208,
+            "question_id": 75044646,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044646/nlp-and-cv-text-processing",
+            "title": "NLP and CV Text Processing"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "ubuntu",
+                "openssl",
+                "pyenv"
+            ],
+            "owner": {
+                "account_id": 14370996,
+                "reputation": 662,
+                "user_id": 10380766,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/PCKrY.png?s=256&g=1",
+                "display_name": "Hofbr",
+                "link": "https://stackoverflow.com/users/10380766/hofbr"
+            },
+            "is_answered": true,
+            "view_count": 30,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673155617,
+            "creation_date": 1673136941,
+            "question_id": 75044685,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044685/pyenv-unable-to-install-older-versions-of-python-3-due-to-configure-error-c-c",
+            "title": "Pyenv unable to install older versions of Python 3 due to `configure: error: C compiler cannot create executables`"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "indexing",
+                "analytics"
+            ],
+            "owner": {
+                "account_id": 27466244,
+                "reputation": 1,
+                "user_id": 20955903,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4zOk9J9NokCF4nGfeddYmnWqLgNKoHwZGkq3fY=k-s256",
+                "display_name": "msj here",
+                "link": "https://stackoverflow.com/users/20955903/msj-here"
+            },
+            "is_answered": false,
+            "view_count": 22,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673155611,
+            "creation_date": 1673155385,
+            "last_edit_date": 1673155611,
+            "question_id": 75045670,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045670/how-do-i-assign-index-like-this-after-groupby-pandas",
+            "title": "How do I assign index like this after groupby pandas?"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "compare"
+            ],
+            "owner": {
+                "account_id": 25459056,
+                "reputation": 59,
+                "user_id": 19259213,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJxCKnHJ7uGehtEzIrw4CFs6Sc1UeC6XiunX7Xc=k-s256",
+                "display_name": "Y. Pat",
+                "link": "https://stackoverflow.com/users/19259213/y-pat"
+            },
+            "is_answered": true,
+            "view_count": 23,
+            "accepted_answer_id": 75045681,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673155542,
+            "creation_date": 1673154930,
+            "question_id": 75045640,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045640/determine-number-of-common-rows-or-exact-intersection-of-rows-from-two-datafra",
+            "title": "Determine number of common rows (or exact intersection of rows) from two dataframe python (with exception case)"
+        },
+        {
+            "tags": [
+                "python",
+                "function",
+                "parameters",
+                "nameerror"
+            ],
+            "owner": {
+                "account_id": 27465905,
+                "reputation": 1,
+                "user_id": 20955622,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/1798b565cf8b718dce6480059f52d831?s=256&d=identicon&r=PG",
+                "display_name": "yudhie tanta",
+                "link": "https://stackoverflow.com/users/20955622/yudhie-tanta"
+            },
+            "is_answered": false,
+            "view_count": 37,
+            "closed_date": 1673165914,
+            "answer_count": 1,
+            "score": -1,
+            "last_activity_date": 1673155362,
+            "creation_date": 1673150342,
+            "last_edit_date": 1673153141,
+            "question_id": 75045398,
+            "link": "https://stackoverflow.com/questions/75045398/parameters-in-function-is-not-defined",
+            "closed_reason": "Needs details or clarity",
+            "title": "parameters in function is not defined"
+        },
+        {
+            "tags": [
+                "python",
+                "flet"
+            ],
+            "owner": {
+                "account_id": 27466186,
+                "reputation": 1,
+                "user_id": 20955859,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7QhjHxcs6UDBt9MApVicH5ISIIERCBaxB4zUBA=k-s256",
+                "display_name": "Shivansh Verma",
+                "link": "https://stackoverflow.com/users/20955859/shivansh-verma"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673155018,
+            "creation_date": 1673155018,
+            "question_id": 75045652,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045652/how-to-make-a-split-window-into-4-parts-in-flet",
+            "title": "How to make a split window into 4 parts in flet?"
+        },
+        {
+            "tags": [
+                "python",
+                "list",
+                "while-loop"
+            ],
+            "owner": {
+                "account_id": 27466106,
+                "reputation": 3,
+                "user_id": 20955785,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7BovWDiwRKCIcPGHxEgitm_RPW0sfubn8NREyO=k-s256",
+                "display_name": "pythonguy99",
+                "link": "https://stackoverflow.com/users/20955785/pythonguy99"
+            },
+            "is_answered": true,
+            "view_count": 28,
+            "accepted_answer_id": 75045623,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673154939,
+            "creation_date": 1673153972,
+            "question_id": 75045592,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045592/how-to-create-a-while-loop-that-adds-user-inputted-integers-into-a-list-then-di",
+            "title": "How to create a while loop that adds user inputted integers into a list, then displays that list of user inputs after every failed input?"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "python-install"
+            ],
+            "owner": {
+                "account_id": 27466135,
+                "reputation": 1,
+                "user_id": 20955809,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7N2IYqtFnoswo6yZnLVkQF66sL-fR9hpLK8C4I4w=k-s256",
+                "display_name": "12312ajsodiasjd123",
+                "link": "https://stackoverflow.com/users/20955809/12312ajsodiasjd123"
+            },
+            "is_answered": false,
+            "view_count": 14,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673153793,
+            "creation_date": 1673153793,
+            "question_id": 75045584,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045584/completely-remove-python-related-files-windows",
+            "title": "Completely Remove Python-Related Files Windows"
+        },
+        {
+            "tags": [
+                "python",
+                "matplotlib",
+                "plot",
+                "imshow",
+                "extent"
+            ],
+            "owner": {
+                "account_id": 13390449,
+                "reputation": 1,
+                "user_id": 9662948,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/-WRwlSIce73Y/AAAAAAAAAAI/AAAAAAAAA_A/4fzk-cfEH70/photo.jpg?sz=256",
+                "display_name": "amirwe",
+                "link": "https://stackoverflow.com/users/9662948/amirwe"
+            },
+            "is_answered": false,
+            "view_count": 12,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673153660,
+            "creation_date": 1673153660,
+            "question_id": 75045580,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045580/scale-background-image-in-plot-python-matplotlib",
+            "title": "scale background image in plot python matplotlib"
+        },
+        {
+            "tags": [
+                "python",
+                "web-scraping",
+                "scrapy"
+            ],
+            "owner": {
+                "account_id": 24229840,
+                "reputation": 95,
+                "user_id": 18183763,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/67a72fd7c5d93bc1ddaa59b2a8fbc42e?s=256&d=identicon&r=PG",
+                "display_name": "X-somtheing",
+                "link": "https://stackoverflow.com/users/18183763/x-somtheing"
+            },
+            "is_answered": true,
+            "view_count": 32,
+            "accepted_answer_id": 75045558,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673153321,
+            "creation_date": 1673141359,
+            "question_id": 75044956,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044956/how-to-speed-up-the-python-requests-in-scrapy",
+            "title": "How to speed up the python requests in Scrapy?"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "list",
+                "dictionary"
+            ],
+            "owner": {
+                "account_id": 27294422,
+                "reputation": 143,
+                "user_id": 20812299,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/woVZW.jpg?s=256&g=1",
+                "display_name": "Takao貴男",
+                "link": "https://stackoverflow.com/users/20812299/takao%e8%b2%b4%e7%94%b7"
+            },
+            "is_answered": true,
+            "view_count": 68,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1673152500,
+            "creation_date": 1673140426,
+            "last_edit_date": 1673152500,
+            "question_id": 75044903,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044903/problem-creating-a-dictionary-i-cant-access-all-the-values",
+            "title": "Problem creating a dictionary. I can&#39;t access all the values"
+        },
+        {
+            "tags": [
+                "python",
+                "optimization",
+                "linear-programming",
+                "pulp"
+            ],
+            "owner": {
+                "account_id": 21803910,
+                "reputation": 25,
+                "user_id": 16102355,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhgXG_-TvVDi6KrLXsLS5-xJcV0OUThv-pG1flk=k-s256",
+                "display_name": "Vasuki Rao",
+                "link": "https://stackoverflow.com/users/16102355/vasuki-rao"
+            },
+            "is_answered": false,
+            "view_count": 19,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673152392,
+            "creation_date": 1673152392,
+            "question_id": 75045512,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045512/transport-optimization-pulp-with-shipping-volume-discount",
+            "title": "Transport Optimization (PuLP) with Shipping Volume Discount"
+        },
+        {
+            "tags": [
+                "python",
+                "google-cloud-run",
+                "stockfish"
+            ],
+            "owner": {
+                "account_id": 27465988,
+                "reputation": 11,
+                "user_id": 20955691,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp6bNLUI97FsdVp1Qq5DtFZJCpYSFaOKs23cbv5M=k-s256",
+                "display_name": "Liam Foss",
+                "link": "https://stackoverflow.com/users/20955691/liam-foss"
+            },
+            "is_answered": false,
+            "view_count": 20,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1673151785,
+            "creation_date": 1673151727,
+            "last_edit_date": 1673151785,
+            "question_id": 75045480,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045480/google-cloud-run-stockfish-causes-deploy-failure",
+            "title": "Google Cloud Run - Stockfish causes deploy failure"
+        },
+        {
+            "tags": [
+                "python",
+                "artificial-intelligence",
+                "trading"
+            ],
+            "owner": {
+                "account_id": 23279154,
+                "reputation": 1,
+                "user_id": 17362832,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhNLZD8IzdBr0rhMgEu-VI5x_7iMEXZFyR5uyqrUg=k-s256",
+                "display_name": "Mika",
+                "link": "https://stackoverflow.com/users/17362832/mika"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673150918,
+            "creation_date": 1673150818,
+            "last_edit_date": 1673150918,
+            "question_id": 75045433,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045433/ai-trading-portfolio-weights-weights-impact-the-next-day-from-the-previous-da",
+            "title": "AI Trading - Portfolio Weights: Weights impact the next day from the previous day"
+        },
+        {
+            "tags": [
+                "python",
+                "excel",
+                "word",
+                "group"
+            ],
+            "owner": {
+                "account_id": 27465937,
+                "reputation": 1,
+                "user_id": 20955643,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/6051431764938941/picture?type=large",
+                "display_name": "Hugo Adriano",
+                "link": "https://stackoverflow.com/users/20955643/hugo-adriano"
+            },
+            "is_answered": false,
+            "view_count": 14,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673150476,
+            "creation_date": 1673150476,
+            "question_id": 75045409,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045409/im-trying-to-generate-multiple-word-documents-by-a-group-variable-from-a-excel",
+            "title": "I&#39;m trying to generate multiple word documents by a group variable from a excel dataframe. But I dunno how to"
+        },
+        {
+            "tags": [
+                "python",
+                "celery"
+            ],
+            "owner": {
+                "account_id": 26223023,
+                "reputation": 1,
+                "user_id": 19900117,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AItbvmmtx_ubet1G0b1yWgl-fGnaRU68mLZPkUwE57BM=k-s256",
+                "display_name": "Rock Dev Mufasa",
+                "link": "https://stackoverflow.com/users/19900117/rock-dev-mufasa"
+            },
+            "is_answered": false,
+            "view_count": 14,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673149779,
+            "creation_date": 1673149348,
+            "question_id": 75045362,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045362/celery-task-is-there-any-function-to-call-initialize-task-in-the-base-class",
+            "title": "Celery task: is there any function to call initialize task in the base class"
+        },
+        {
+            "tags": [
+                "python",
+                "powershell",
+                "powershell-3.0",
+                "weatherdata"
+            ],
+            "owner": {
+                "account_id": 27465734,
+                "reputation": 1,
+                "user_id": 20955479,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/279a50959b4805f2e4322e83a910cafb?s=256&d=identicon&r=PG",
+                "display_name": "Amlan",
+                "link": "https://stackoverflow.com/users/20955479/amlan"
+            },
+            "is_answered": false,
+            "view_count": 22,
+            "closed_date": 1673169290,
+            "answer_count": 0,
+            "score": -4,
+            "last_activity_date": 1673149446,
+            "creation_date": 1673147191,
+            "last_edit_date": 1673149446,
+            "question_id": 75045251,
+            "link": "https://stackoverflow.com/questions/75045251/imdaa-data-download-in-powershell",
+            "closed_reason": "Needs details or clarity",
+            "title": "IMDAA data download in powershell"
+        },
+        {
+            "tags": [
+                "python",
+                "web-scraping",
+                "beautifulsoup",
+                "pyqt5",
+                "crash"
+            ],
+            "owner": {
+                "account_id": 21307974,
+                "reputation": 1,
+                "user_id": 15682869,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/22d43bde1be36892833640b6e592bff5?s=256&d=identicon&r=PG&f=1",
+                "display_name": "83y",
+                "link": "https://stackoverflow.com/users/15682869/83y"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "closed_date": 1673168462,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673149442,
+            "creation_date": 1673149442,
+            "question_id": 75045364,
+            "link": "https://stackoverflow.com/questions/75045364/application-crashing-with-pyqt5-in-python",
+            "closed_reason": "Not suitable for this site",
+            "title": "Application crashing with PyQt5 in Python"
+        },
+        {
+            "tags": [
+                "python",
+                "if-statement",
+                "custom-question-answering"
+            ],
+            "owner": {
+                "account_id": 27465813,
+                "reputation": 9,
+                "user_id": 20955542,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/108cabfe30a5d7f3cbd5f199884b2151?s=256&d=identicon&r=PG",
+                "display_name": "Superhots",
+                "link": "https://stackoverflow.com/users/20955542/superhots"
+            },
+            "is_answered": false,
+            "view_count": 37,
+            "answer_count": 1,
+            "score": -1,
+            "last_activity_date": 1673149398,
+            "creation_date": 1673148762,
+            "last_edit_date": 1673148889,
+            "question_id": 75045328,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045328/new-to-coding-python-i-am-trying-to-create-a-conversation-that-has-a-y-n-answe",
+            "title": "*new to coding/python* I am trying to create a conversation that has a Y/N answer"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 27378708,
+                "reputation": 7,
+                "user_id": 20883622,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7qm_b_Eyp1h1OiSy5MCW8k3ZahZ_jOfO_ftPKu=k-s256",
+                "display_name": "hyoeun",
+                "link": "https://stackoverflow.com/users/20883622/hyoeun"
+            },
+            "is_answered": true,
+            "view_count": 36,
+            "accepted_answer_id": 75045363,
+            "answer_count": 1,
+            "score": -3,
+            "last_activity_date": 1673149376,
+            "creation_date": 1673149044,
+            "question_id": 75045343,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045343/how-to-make-pythonic-nested-list",
+            "title": "how to make pythonic Nested List"
+        },
+        {
+            "tags": [
+                "python",
+                "tkinter"
+            ],
+            "owner": {
+                "account_id": 27462137,
+                "reputation": 1,
+                "user_id": 20952531,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp63MkzkSSyqm9PuBbSq1KVtq2XZakwXjuoP0XETFA=k-s256",
+                "display_name": "Mohammed Fahad",
+                "link": "https://stackoverflow.com/users/20952531/mohammed-fahad"
+            },
+            "is_answered": false,
+            "view_count": 18,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673149140,
+            "creation_date": 1673149140,
+            "question_id": 75045350,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045350/im-using-the-python-code-of-blockchain-that-creates-a-blockchain-from-tkinter-i",
+            "title": "I&#39;m using the python code of blockchain that creates a blockchain from tkinter I&#39;m getting this below error I&#39;m confused that what to add in values"
+        },
+        {
+            "tags": [
+                "python",
+                "discord",
+                "base64"
+            ],
+            "owner": {
+                "account_id": 26254699,
+                "reputation": 13,
+                "user_id": 19926916,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AItbvmmt263CHieF14Ax8_OasXPWgeHNiTQU0Z3Wfec_=k-s256",
+                "display_name": "DeVYuvi",
+                "link": "https://stackoverflow.com/users/19926916/devyuvi"
+            },
+            "is_answered": true,
+            "view_count": 33,
+            "closed_date": 1673148795,
+            "accepted_answer_id": 75045167,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673149006,
+            "creation_date": 1673145059,
+            "question_id": 75045155,
+            "link": "https://stackoverflow.com/questions/75045155/is-there-any-way-to-remove-the-b-from-decoded-base64-output",
+            "closed_reason": "Duplicate",
+            "title": "Is there any way to remove the b&#39;&#39; from decoded base64 output?"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "mysql-python"
+            ],
+            "owner": {
+                "account_id": 15789334,
+                "reputation": 1,
+                "user_id": 11393033,
+                "user_type": "registered",
+                "profile_image": "https://lh6.googleusercontent.com/--I1v163aCms/AAAAAAAAAAI/AAAAAAAAcBU/kw86g65RQSE/photo.jpg?sz=256",
+                "display_name": "35mmWithMeow",
+                "link": "https://stackoverflow.com/users/11393033/35mmwithmeow"
+            },
+            "is_answered": false,
+            "view_count": 18,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673148712,
+            "creation_date": 1673148197,
+            "last_edit_date": 1673148712,
+            "question_id": 75045299,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045299/no-module-named-flask-mysqldb-with-redhat-9",
+            "title": "No module named flask_mysqldb with Redhat 9"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 27436679,
+                "reputation": 3,
+                "user_id": 20932388,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/24724995164c5508e6995caf33cf51d2?s=256&d=identicon&r=PG",
+                "display_name": "Harrison",
+                "link": "https://stackoverflow.com/users/20932388/harrison"
+            },
+            "is_answered": true,
+            "view_count": 32,
+            "accepted_answer_id": 75045301,
+            "answer_count": 1,
+            "score": -1,
+            "last_activity_date": 1673148284,
+            "creation_date": 1673146245,
+            "last_edit_date": 1673146530,
+            "question_id": 75045207,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045207/local-variable-numeral-referenced-before-assignment-error",
+            "title": "local variable &#39;Numeral&#39; referenced before assignment error"
+        },
+        {
+            "tags": [
+                "python",
+                "flask",
+                "gunicorn",
+                "gevent",
+                "flask-socketio"
+            ],
+            "owner": {
+                "account_id": 26630705,
+                "reputation": 1,
+                "user_id": 20247942,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/ce9189fbbba038501077bfce13373acd?s=256&d=identicon&r=PG",
+                "display_name": "Coolpaper",
+                "link": "https://stackoverflow.com/users/20247942/coolpaper"
+            },
+            "is_answered": false,
+            "view_count": 21,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673147930,
+            "creation_date": 1673144972,
+            "last_edit_date": 1673147930,
+            "question_id": 75045149,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045149/problem-with-running-socket-io-through-gunicorn-on-fly-io",
+            "title": "Problem with running Socket IO through gunicorn on Fly.io"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 27465401,
+                "reputation": 1,
+                "user_id": 20955202,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp6BbiUBGX_zzR9JVmHUIUemu67v530bSHTA1mnxjg=k-s256",
+                "display_name": "Saran Kumar",
+                "link": "https://stackoverflow.com/users/20955202/saran-kumar"
+            },
+            "is_answered": true,
+            "view_count": 53,
+            "answer_count": 2,
+            "score": -1,
+            "last_activity_date": 1673147926,
+            "creation_date": 1673141017,
+            "last_edit_date": 1673143090,
+            "question_id": 75044930,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044930/how-to-update-a-string-in-function-without-return-value",
+            "title": "How to update a string in function without return value?"
+        },
+        {
+            "tags": [
+                "python",
+                "lxml",
+                "yfinance",
+                "cffi"
+            ],
+            "owner": {
+                "account_id": 27465764,
+                "reputation": 1,
+                "user_id": 20955506,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/37667db1831e71d1b45785f9a1ddbb8b?s=256&d=identicon&r=PG",
+                "display_name": "pepepythonic",
+                "link": "https://stackoverflow.com/users/20955506/pepepythonic"
+            },
+            "is_answered": false,
+            "view_count": 12,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673147478,
+            "creation_date": 1673147478,
+            "question_id": 75045267,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045267/lxml-error-and-cffi-error-when-attempting-to-download-the-yfinance-package",
+            "title": "Lxml error and cffi error when attempting to download the yfinance package"
+        },
+        {
+            "tags": [
+                "python",
+                "arrays",
+                "netcdf",
+                "python-xarray"
+            ],
+            "owner": {
+                "account_id": 15461865,
+                "reputation": 342,
+                "user_id": 11154361,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/metXO.png?s=256&g=1",
+                "display_name": "I.M.",
+                "link": "https://stackoverflow.com/users/11154361/i-m"
+            },
+            "is_answered": false,
+            "view_count": 35,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673147228,
+            "creation_date": 1673136880,
+            "last_edit_date": 1673147228,
+            "question_id": 75044683,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044683/netcdf-variable-extraction-at-specific-coordinates-using-arrays-does-not-work",
+            "title": "NetCDF variable extraction at specific coordinates using arrays does not work - python"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "pytest",
+                "pytest-mock"
+            ],
+            "owner": {
+                "account_id": 139209,
+                "reputation": 17373,
+                "user_id": 344669,
+                "user_type": "registered",
+                "accept_rate": 70,
+                "profile_image": "https://i.stack.imgur.com/8JOSf.gif?s=256&g=1",
+                "display_name": "sfgroups",
+                "link": "https://stackoverflow.com/users/344669/sfgroups"
+            },
+            "is_answered": false,
+            "view_count": 22,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673146929,
+            "creation_date": 1673146053,
+            "question_id": 75045199,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045199/pytest-patch-generate-exception-for-class-method-call",
+            "title": "pytest patch generate exception for Class method call"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "owner": {
+                "account_id": 15885890,
+                "reputation": 1347,
+                "user_id": 11462274,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/7rGsW.jpg?s=256&g=1",
+                "display_name": "Digital Farmer",
+                "link": "https://stackoverflow.com/users/11462274/digital-farmer"
+            },
+            "is_answered": true,
+            "view_count": 29,
+            "accepted_answer_id": 75045225,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1673146674,
+            "creation_date": 1673142380,
+            "question_id": 75045016,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045016/if-the-value-of-a-specific-column-from-a-previous-date-is-greater-than-zero-then",
+            "title": "If the value of a specific column from a previous date is greater than zero then True, less than or equal to zero is False"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "missing-data"
+            ],
+            "owner": {
+                "account_id": 999143,
+                "reputation": 832,
+                "user_id": 1014385,
+                "user_type": "registered",
+                "accept_rate": 60,
+                "profile_image": "https://www.gravatar.com/avatar/d515b9a634c0f3561ffbfc809e908885?s=256&d=identicon&r=PG",
+                "display_name": "David Lovell",
+                "link": "https://stackoverflow.com/users/1014385/david-lovell"
+            },
+            "is_answered": true,
+            "view_count": 26,
+            "accepted_answer_id": 75045189,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673146496,
+            "creation_date": 1673145244,
+            "question_id": 75045161,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045161/how-can-we-make-pandas-default-handling-of-missing-values-warn-of-their-presence",
+            "title": "How can we make pandas default handling of missing values warn of their presence rather than silently ignore them?"
+        },
+        {
+            "tags": [
+                "python",
+                "pathlib"
+            ],
+            "owner": {
+                "account_id": 26128876,
+                "reputation": 49,
+                "user_id": 19819908,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/5c8985a9a8fd161279e8da700015eb55?s=256&d=identicon&r=PG",
+                "display_name": "jfontana",
+                "link": "https://stackoverflow.com/users/19819908/jfontana"
+            },
+            "is_answered": false,
+            "view_count": 20,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673145971,
+            "creation_date": 1673145971,
+            "question_id": 75045195,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045195/how-to-check-whether-file-name-contains-a-specific-character-with-pathlib",
+            "title": "How to check whether file name contains a specific character with Pathlib"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "beautifulsoup"
+            ],
+            "owner": {
+                "account_id": 6768404,
+                "reputation": 19556,
+                "user_id": 5212614,
+                "user_type": "registered",
+                "accept_rate": 32,
+                "profile_image": "https://i.stack.imgur.com/2qaHz.jpg?s=256&g=1",
+                "display_name": "ASH",
+                "link": "https://stackoverflow.com/users/5212614/ash"
+            },
+            "is_answered": true,
+            "view_count": 19,
+            "accepted_answer_id": 75045194,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1673145924,
+            "creation_date": 1673145172,
+            "question_id": 75045158,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045158/trying-to-scrape-a-specific-table-but-getting-no-results",
+            "title": "Trying to scrape a specific table but getting no results"
+        },
+        {
+            "tags": [
+                "python",
+                "django",
+                "ajax"
+            ],
+            "owner": {
+                "account_id": 25368992,
+                "reputation": 1,
+                "user_id": 19183135,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhRnRvwedXJWTzPKeHK1x8AXiZ0chOOho-mZaMX=k-s256",
+                "display_name": "VlasssaDassa",
+                "link": "https://stackoverflow.com/users/19183135/vlasssadassa"
+            },
+            "is_answered": false,
+            "view_count": 21,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673145783,
+            "creation_date": 1673145553,
+            "last_edit_date": 1673145783,
+            "question_id": 75045178,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045178/how-to-change-page-content-when-changing-in-db-django",
+            "title": "How to change page content when changing in db Django"
+        },
+        {
+            "tags": [
+                "python",
+                "tensorflow",
+                "machine-learning",
+                "deep-learning",
+                "image-classification"
+            ],
+            "owner": {
+                "account_id": 18251663,
+                "reputation": 3,
+                "user_id": 13286533,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/1d72be5015b76d3ee9ddbde2c8efb127?s=256&d=identicon&r=PG&f=1",
+                "display_name": "unknownit",
+                "link": "https://stackoverflow.com/users/13286533/unknownit"
+            },
+            "is_answered": false,
+            "view_count": 18,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673145514,
+            "creation_date": 1673143238,
+            "last_edit_date": 1673145514,
+            "question_id": 75045055,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045055/error-when-run-model-sequential-image-classification-model-was-constructed-with",
+            "title": "Error when run model sequential image classification: Model was constructed with shape (None, 100, 100, 3) for input KerasTensor"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "account_id": 25929757,
+                "reputation": 3,
+                "user_id": 19651030,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AFdZuco-JNSN8XilaujERHgtiEZGj1sxPKTBjk_KX054Og=k-s256",
+                "display_name": "Ventilators",
+                "link": "https://stackoverflow.com/users/19651030/ventilators"
+            },
+            "is_answered": true,
+            "view_count": 39,
+            "accepted_answer_id": 75045140,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673144823,
+            "creation_date": 1673143475,
+            "question_id": 75045071,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045071/how-can-i-move-to-the-next-index",
+            "title": "How can I move to the next index?"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "flutter",
+                "opencv",
+                "cv2"
+            ],
+            "owner": {
+                "account_id": 27465552,
+                "reputation": 1,
+                "user_id": 20955324,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4WvYxOvWTcTvMVxKfVnjjCCiSEJSP6qgECIP1B=k-s256",
+                "display_name": "hehehe hehe",
+                "link": "https://stackoverflow.com/users/20955324/hehehe-hehe"
+            },
+            "is_answered": false,
+            "view_count": 27,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673144421,
+            "creation_date": 1673144384,
+            "last_edit_date": 1673144421,
+            "question_id": 75045120,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045120/how-to-integrate-python-cv2-with-flutter",
+            "title": "How to integrate Python CV2 with Flutter"
+        },
+        {
+            "tags": [
+                "python",
+                "django",
+                "authentication",
+                "google-signin",
+                "django-allauth"
+            ],
+            "owner": {
+                "account_id": 27465155,
+                "reputation": 1,
+                "user_id": 20955015,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7RvfuMf_mkjxKUEOcVNhoa8nZa5NKLOJ24RWep0w=k-s256",
+                "display_name": "Andrea Scotti",
+                "link": "https://stackoverflow.com/users/20955015/andrea-scotti"
+            },
+            "is_answered": false,
+            "view_count": 10,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673143489,
+            "creation_date": 1673143489,
+            "question_id": 75045074,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045074/how-are-adapters-used-in-django-allauth",
+            "title": "How are adapters used in django-allauth?"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "owner": {
+                "account_id": 27465524,
+                "reputation": 1,
+                "user_id": 20955303,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7iRMxHgGb5-rcpGg6gLuZ1JkEXhp4by1QXBE7U9Q=k-s256",
+                "display_name": "Annie Liu",
+                "link": "https://stackoverflow.com/users/20955303/annie-liu"
+            },
+            "is_answered": false,
+            "view_count": 26,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673142979,
+            "creation_date": 1673142979,
+            "question_id": 75045043,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045043/pandas-typing-error-only-valid-with-datetimeindex-timedeltaindex-or-periodinde",
+            "title": "Pandas Typing Error: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of &#39;Index&#39;"
+        },
+        {
+            "tags": [
+                "python",
+                "ui-automation",
+                "pyautogui"
+            ],
+            "owner": {
+                "account_id": 27453210,
+                "reputation": 1,
+                "user_id": 20945087,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp6yMqT5NCI0dJeya2ZaMb-cy0fiLQNv5xcJ8wSK=k-s256",
+                "display_name": "Knax Tom",
+                "link": "https://stackoverflow.com/users/20945087/knax-tom"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673142755,
+            "creation_date": 1673139171,
+            "last_edit_date": 1673142537,
+            "question_id": 75044821,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044821/afk-bot-for-only-one-window",
+            "title": "AFK Bot for only one Window"
+        },
+        {
+            "tags": [
+                "python",
+                "django",
+                "reverse",
+                "activation"
+            ],
+            "owner": {
+                "account_id": 17273626,
+                "reputation": 99,
+                "user_id": 12508734,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/0bb6cdb7716c15c5ead130cb7f7bca1f?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Hosen",
+                "link": "https://stackoverflow.com/users/12508734/hosen"
+            },
+            "is_answered": false,
+            "view_count": 15,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673142438,
+            "creation_date": 1673142438,
+            "question_id": 75045023,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75045023/django-noreversematch-at-account-register",
+            "title": "Django NoReverseMatch at /account/register/"
+        },
+        {
+            "tags": [
+                "python",
+                "telegram",
+                "telegram-bot",
+                "telebot"
+            ],
+            "owner": {
+                "account_id": 25744445,
+                "reputation": 1,
+                "user_id": 19497917,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AFdZucpTj3ctMJQblHyNuWeI4rngoFQkY5_V_hghY7hKGA=k-s256",
+                "display_name": "eue zxc",
+                "link": "https://stackoverflow.com/users/19497917/eue-zxc"
+            },
+            "is_answered": false,
+            "view_count": 12,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673141026,
+            "creation_date": 1673140946,
+            "last_edit_date": 1673141026,
+            "question_id": 75044926,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044926/how-to-find-out-which-picture-was-sent-by-the-telebot",
+            "title": "How to find out which picture was sent by the telebot"
+        },
+        {
+            "tags": [
+                "python",
+                "selenium",
+                "web-scraping"
+            ],
+            "owner": {
+                "account_id": 8873660,
+                "reputation": 111,
+                "user_id": 6626632,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/51fb1ee27cb7e2ef9bf36a5b64714a2a?s=256&d=identicon&r=PG&f=1",
+                "display_name": "sdg",
+                "link": "https://stackoverflow.com/users/6626632/sdg"
+            },
+            "is_answered": true,
+            "view_count": 25,
+            "accepted_answer_id": 75044895,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1673140631,
+            "creation_date": 1673138525,
+            "question_id": 75044779,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044779/scraping-data-from-kendoui-interface-using-selenium-and-python",
+            "title": "Scraping data from KendoUI interface using selenium and python"
+        },
+        {
+            "tags": [
+                "python",
+                "pytorch"
+            ],
+            "owner": {
+                "account_id": 22495323,
+                "reputation": 1,
+                "user_id": 16692402,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/1f4c97783f8c711601ac8ceb66a66260?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Will",
+                "link": "https://stackoverflow.com/users/16692402/will"
+            },
+            "is_answered": false,
+            "view_count": 19,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673140617,
+            "creation_date": 1673140318,
+            "last_edit_date": 1673140363,
+            "question_id": 75044898,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044898/whats-the-fastest-way-to-append-pytorch-completions-onto-their-original-seeds",
+            "title": "What&#39;s the fastest way to append pytorch completions onto their original seeds?"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "image",
+                "opencv"
+            ],
+            "owner": {
+                "account_id": 14744127,
+                "reputation": 11,
+                "user_id": 10656766,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/cKXGt.jpg?s=256&g=1",
+                "display_name": "JollyRogerQZR",
+                "link": "https://stackoverflow.com/users/10656766/jollyrogerqzr"
+            },
+            "is_answered": false,
+            "view_count": 26,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1673139211,
+            "creation_date": 1673139211,
+            "question_id": 75044823,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044823/python-opencv-search-until-good-enough-match-found-and-stop",
+            "title": "Python - OpenCV search until good enough match found and stop"
+        },
+        {
+            "tags": [
+                "python",
+                "networking",
+                "tcp",
+                "scapy"
+            ],
+            "owner": {
+                "account_id": 17975144,
+                "reputation": 11,
+                "user_id": 13062920,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gg3hajYtJ1r00VAUoFPCTBVEzpuZUPr5OUeL52j_Q=k-s256",
+                "display_name": "Gloryness",
+                "link": "https://stackoverflow.com/users/13062920/gloryness"
+            },
+            "is_answered": false,
+            "view_count": 30,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1673138997,
+            "creation_date": 1673138912,
+            "last_edit_date": 1673138997,
+            "question_id": 75044810,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044810/how-do-i-use-tcp-with-scapy-to-receive-json-from-an-api",
+            "title": "How do I use TCP with scapy to receive JSON from an API?"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas"
+            ],
+            "owner": {
+                "account_id": 21763756,
+                "reputation": 125,
+                "user_id": 16067945,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/ffb4c21478f29432997f601c40178ae5?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Diana Mele",
+                "link": "https://stackoverflow.com/users/16067945/diana-mele"
+            },
+            "is_answered": false,
+            "view_count": 37,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1673138128,
+            "creation_date": 1673138128,
+            "question_id": 75044757,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044757/pandas-save-functions-results-in-a-new-dataframe",
+            "title": "Pandas: save function&#39;s results in a new dataframe"
+        },
+        {
+            "tags": [
+                "python",
+                "runtime-error"
+            ],
+            "owner": {
+                "account_id": 27448033,
+                "reputation": 1,
+                "user_id": 20941091,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp5rmKzSH9aca1NE7sI735oENQbAQsVhIit85_mx=k-s256",
+                "display_name": "Reina297",
+                "link": "https://stackoverflow.com/users/20941091/reina297"
+            },
+            "is_answered": true,
+            "view_count": 35,
+            "closed_date": 1673138852,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1673137969,
+            "creation_date": 1673137713,
+            "last_edit_date": 1673137969,
+            "question_id": 75044729,
+            "link": "https://stackoverflow.com/questions/75044729/how-to-fix-int-object-is-not-subscriptable",
+            "closed_reason": "Not suitable for this site",
+            "title": "how to fix int object is not subscriptable"
+        },
+        {
+            "tags": [
+                "python",
+                "arcgis"
+            ],
+            "owner": {
+                "account_id": 27465224,
+                "reputation": 1,
+                "user_id": 20955069,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp4OfVF2ZdXKz4lB3R2oH1INgAb2mWo2PuSgLUw=k-s256",
+                "display_name": "Wyatt B",
+                "link": "https://stackoverflow.com/users/20955069/wyatt-b"
+            },
+            "is_answered": false,
+            "view_count": 22,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1673137820,
+            "creation_date": 1673137820,
+            "question_id": 75044734,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/75044734/finding-the-next-closest-point-from-a-series-of-latitudes-and-longitudes",
+            "title": "Finding the next closest point from a series of latitudes and longitudes"
+        }
+    ],
+    "has_more": false,
+    "quota_max": 300,
+    "quota_remaining": 158
+}
