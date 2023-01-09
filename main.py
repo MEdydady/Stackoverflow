@@ -24,6 +24,8 @@ while z["has_more"]:    # Проверяю есть ли ещё страницы
     response = requests.get(f"{BASE_URL}/2.3/questions", params=params)
     z = response.json()
     params["page"] += 1
+    if  params["page"] > 10:
+        break
 
 pprint.pprint(z)
 
